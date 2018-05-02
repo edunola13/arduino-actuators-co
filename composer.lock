@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f12d672427b7a8c6cc067cc6e8064acc",
+    "packages": [
+        {
+            "name": "igniteit/arduino-basic-oo",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/edunola13/arduino-basic-oo.git",
+                "reference": "f46740613f4cd2750fcd2d2fb9e4339f602dd7e4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/edunola13/arduino-basic-oo/zipball/f46740613f4cd2750fcd2d2fb9e4339f602dd7e4",
+                "reference": "f46740613f4cd2750fcd2d2fb9e4339f602dd7e4",
+                "shasum": ""
+            },
+            "type": "arduino-lib",
+            "authors": [
+                {
+                    "name": "Eduardo Sebastian Nola",
+                    "email": "edunola13@hotmail.com",
+                    "homepage": "http://www.edunola.com.ar/",
+                    "role": "Designer,Developer"
+                }
+            ],
+            "keywords": [
+                "Arduino"
+            ],
+            "support": {
+                "source": "https://github.com/edunola13/arduino-basic-oo/tree/master",
+                "issues": "https://github.com/edunola13/arduino-basic-oo/issues"
+            },
+            "time": "2018-04-30T23:16:12+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "igniteit/arduino-basic-oo": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
