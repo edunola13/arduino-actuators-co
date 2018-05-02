@@ -1,6 +1,7 @@
 //#include "WProgram.h"
 #include <Arduino.h>
-#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.h"
+//#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.h"
+#include "../arduino-basic-oo/ElementAbstract.h"
 #include "Buzzer.h"
 
 //Comentar esta linea si no se quiere ni que se compile la funcion tone() de arduino

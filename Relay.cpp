@@ -1,6 +1,7 @@
 //#include "WProgram.h"
 #include <Arduino.h>
-#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.h"
+//#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.h"
+#include "../arduino-basic-oo/ElementAbstract.h"
 #include "Relay.h"
 
 Relay::Relay(){
