@@ -54,7 +54,7 @@ void DigitalControl::jsonProperties(String &value){
   value+= this->propertyToJson("sta", String(this->state), false, true);
 }
 void DigitalControl::parseJson(String* json){
-  /*String value= parseProperty(json, "pinD");
+  String value= parseProperty(json, "pinD");
   if(isNotNull(value)){
     this->setPinD(value.toInt());
   }
@@ -74,7 +74,7 @@ void DigitalControl::parseJson(String* json){
   value= parseProperty(json, "sta");
   if(isNotNull(value)){
     this->set(value.toInt());
-  }*/
+  }
 }
 
 //EEPROM
