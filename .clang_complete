@@ -1,0 +1,34 @@
+-IC:/Users/Enola/Documents/Arduino/arduino-actuators-oo/include
+-IC:/Users/Enola/Documents/Arduino/arduino-actuators-oo/src
+-IC:/Users/Enola/.platformio/lib/EnolaArduinoBasicOO/src
+-IC:/Users/Enola/.platformio/packages/framework-arduinoavr/cores/arduino
+-IC:/Users/Enola/.platformio/packages/framework-arduinoavr/variants/standard
+-IC:/Users/Enola/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src
+-IC:/Users/Enola/.platformio/lib/Adafruit Motor Shield library_ID27
+-IC:/Users/Enola/.platformio/lib/Adafruit Unified Sensor_ID31
+-IC:/Users/Enola/.platformio/lib/ArduinoJson_ID64/src
+-IC:/Users/Enola/.platformio/lib/DHT sensor library_ID19
+-IC:/Users/Enola/.platformio/lib/EnolaArduinoGeneralUse/src
+-IC:/Users/Enola/.platformio/lib/EnolaArduinoSensorsOO
+-IC:/Users/Enola/.platformio/lib/EnolaSIM800L
+-IC:/Users/Enola/.platformio/lib/Ethernet_ID872/src
+-IC:/Users/Enola/.platformio/lib/IRremote_ID4
+-IC:/Users/Enola/.platformio/lib/NeoSWSerial_ID1653/src
+-IC:/Users/Enola/.platformio/lib/PubSubClient_ID89/src
+-IC:/Users/Enola/.platformio/lib/Servo_ID883/src
+-IC:/Users/Enola/.platformio/lib/aREST_ID429
+-IC:/Users/Enola/.platformio/lib/arduino-actuators-oo
+-IC:/Users/Enola/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src
+-IC:/Users/Enola/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src
+-IC:/Users/Enola/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src
+-IC:/Users/Enola/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src
+-IC:/Users/Enola/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include
+-IC:/Users/Enola/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed
+-IC:/Users/Enola/.platformio/packages/toolchain-atmelavr/avr/include
+-IC:/Users/Enola/.platformio/packages/tool-unity
+-DPLATFORMIO=40304
+-DARDUINO_AVR_UNO
+-DF_CPU=16000000L
+-DARDUINO_ARCH_AVR
+-DARDUINO=10805
+-D__AVR_ATmega328P__
